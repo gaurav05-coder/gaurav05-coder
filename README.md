@@ -21,11 +21,12 @@ I'm a passionate developer currently pursuing B.Tech at **Motilal Nehru National
 - 🔁 [**To-Do List**](https://github.com/gaurav05-coder/todo-list)  
   A minimal and responsive task manager with add/edit/delete functionality and persistent storage.
 
-- 🔍 **Lost & Found Items Website** *(in progress)*  
-  A platform to report and find lost items within college campuses. Includes user authentication, city-based categorization, and real-time chat.
+- 🛠️ **FixBuddy** *(in progress)*  
+  A local service platform that connects users with nearby professionals like electricians, plumbers, and carpenters. Features include user registration, service provider profiles, booking system, and city-based filtering.
 
 - 📚 **Study Group Finder** *(in progress)*  
   Web application to help students find and join study groups based on shared interests or subjects.
+
 
 ---
 
