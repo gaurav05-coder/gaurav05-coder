@@ -87,3 +87,6 @@ If you have an interesting idea or want to build something cool — let's connec
 // Motivation for the day:
 while(!success) {
   tryAgain();
+  learn();
+  improve();
+}
