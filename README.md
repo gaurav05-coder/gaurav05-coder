@@ -36,8 +36,8 @@ I'm a passionate developer currently pursuing B.Tech at **Motilal Nehru National
 ---
 
 ### 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-link)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/gaurav-mishra-b42a6b331/)
+- [Email](mailto:gauravm0905@gmail.com)
 
 ---
 
