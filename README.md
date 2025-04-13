@@ -22,7 +22,7 @@ I'm a passionate developer currently pursuing B.Tech at **Motilal Nehru National
   A minimal and responsive task manager with add/edit/delete functionality and persistent storage.
 
 - 🛠️ [**FixBuddy**](https://github.com/FixBuddy/FixBuddy_DevJam) 
-  A local service platform that connects users with nearby professionals like electricians, plumbers, and carpenters. Features include user registration, service provider profiles, booking system, and city-based filtering.
+A local service platform that connects users with nearby professionals like electricians, plumbers, and carpenters. Features include user registration, service provider profiles, booking system, and city-based filtering.
 
 - 📚 [**Study-Group-Finder**](https://github.com/Group-Projects-009/study-group-finder)  
   Web application to help students find and join study groups based on shared interests or subjects.
