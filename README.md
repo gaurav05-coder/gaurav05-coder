@@ -26,7 +26,7 @@ I'm a passionate developer currently pursuing B.Tech at **Motilal Nehru National
 ### 📌 Featured Projects
 
 - 🛠️ [**FixBuddy**](https://github.com/FixBuddy/FixBuddy_DevJam)  
-  A local service platform that connects users with nearby professionals like electricians, plumbers, and carpenters. Key features include user registration, service provider profiles, a booking system, and city-based filtering.
+  A local service platform that connects users with nearby professionals like electricians, plumbers, and carpenters. Key features include user registration, service provider profiles, a booking system.
 
 - 📚 [**Study Group Finder**](https://github.com/Group-Projects-009/study-group-finder)  
   A web application to help students discover and join study groups based on shared interests or subjects.
