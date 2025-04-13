@@ -6,13 +6,20 @@ I'm a passionate developer currently pursuing B.Tech at **Motilal Nehru National
 
 ---
 
+### 🎯 Current Focus
+- Building real-world full-stack projects 🧩
+- Exploring **Next.js**, **WebSockets**, and **TypeScript**
+- Learning system design and backend architecture
+- Contributing to open-source
+
+---
+
 ### 🔧 Tech Stack
 - **Languages**: JavaScript, C++, Python
 - **Frontend**: React.js, HTML, CSS, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Databases**: MongoDB, MySQL
 - **Tools**: Git, GitHub, Postman, VS Code
-- **Currently Learning**: Next.js, TypeScript, WebSockets, Real-time Features
 
 ---
 
@@ -29,6 +36,12 @@ I'm a passionate developer currently pursuing B.Tech at **Motilal Nehru National
 
 ---
 
+### 🌱 Learning Journey
+> Staying consistent, one commit at a time 🧠  
+> Currently diving deep into: `Next.js`, `WebSockets`, `TypeScript`, `MongoDB Aggregation`
+
+---
+
 ### 📊 GitHub Stats
 
 ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurav05-coder&show_icons=true&theme=radical)  
@@ -36,17 +49,31 @@ I'm a passionate developer currently pursuing B.Tech at **Motilal Nehru National
 
 ---
 
-### 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/gaurav-mishra-b42a6b331/)
-- [Email](mailto:gauravm0905@gmail.com)
+### 🤝 Let's Collaborate!
+I'm always open to learning and growing with other developers.  
+If you have an interesting idea or want to build something cool — let's connect!
 
 ---
 
-### 💬 Dev Quote
-
-> _"Programs must be written for people to read, and only incidentally for machines to execute."_  
-> — **Harold Abelson**
+### 😄 Fun Facts
+- I code late at night — my most productive hours 🌙
+- I prefer dark mode, always.
+- I love debugging more than writing new code 😅
 
 ---
 
-_“The only way to do great work is to love what you do.” – Steve Jobs_
+### 📫 Reach Me
+- 📍 [LinkedIn](https://www.linkedin.com/in/gaurav-mishra-b42a6b331/)
+- 📧 [Email](mailto:gauravm0905@gmail.com)
+
+---
+
+### ⚡ Dev Quote
+
+```js
+// Motivation for the day:
+while(!success) {
+  tryAgain();
+  learn();
+  improve();
+}
