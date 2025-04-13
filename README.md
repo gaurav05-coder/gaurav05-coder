@@ -34,7 +34,6 @@ I'm a passionate developer currently pursuing B.Tech at **Motilal Nehru National
   - **Professional Registration & Profile**: Professionals can create accounts and set up profiles showcasing their expertise.
   - **Booking System**: Users can search for professionals, book services, and view appointment details.
   - **Booking Acceptance/Rejection**: Professionals can accept or reject booking requests based on availability.
-  - **City-Based Filtering**: Allows users to find professionals in their local area.
 
 - 📚 [**Study Group Finder**](https://github.com/Group-Projects-009/study-group-finder)  
   A web application designed to help students find and join study groups based on their subjects or shared academic interests. The app allows users to search for available study groups, create new ones, and connect with like-minded individuals for collaborative learning.  
