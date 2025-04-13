@@ -29,15 +29,37 @@ I'm a passionate developer currently pursuing B.Tech at **Motilal Nehru National
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurav05-coder&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav05-coder&layout=compact&theme=radical)
+
+---
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=gaurav05-coder&theme=radical&column=4)
+
+---
+
+### 🔗 Profile Badges
+
+![Profile Views](https://komarev.com/ghpvc/?username=gaurav05-coder&color=brightgreen)
+![Followers](https://img.shields.io/github/followers/gaurav05-coder?label=Follow&style=social)
+![Stars](https://img.shields.io/github/stars/gaurav05-coder?style=social)
 
 ---
 
 ### 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/gaurav-mishra-b42a6b331/)
 - [Email](mailto:gauravm0905@gmail.com)
+
+---
+
+### 💬 Dev Quote
+
+> _"Programs must be written for people to read, and only incidentally for machines to execute."_  
+> — **Harold Abelson**
 
 ---
 
