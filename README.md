@@ -26,14 +26,27 @@ I'm a passionate developer currently pursuing B.Tech at **Motilal Nehru National
 ### 📌 Featured Projects
 
 - 🛠️ [**FixBuddy**](https://github.com/FixBuddy/FixBuddy_DevJam)  
-  A local service platform that connects users with nearby professionals like electricians, plumbers, and carpenters. Key features include user registration, service provider profiles, a booking system.
+  A local service platform that connects users with nearby professionals such as electricians, plumbers, and carpenters.  
+  Key features:
+  - **User Dashboard**: Allows users to view and manage their service requests.
+  - **Professional Dashboard**: Enables professionals to manage incoming bookings, accept or reject service requests, and maintain their availability.
+  - **User Registration & Login**: Users can create accounts and log in to book services.
+  - **Professional Registration & Profile**: Professionals can create accounts and set up profiles showcasing their expertise.
+  - **Booking System**: Users can search for professionals, book services, and view appointment details.
+  - **Booking Acceptance/Rejection**: Professionals can accept or reject booking requests based on availability.
+  - **City-Based Filtering**: Allows users to find professionals in their local area.
 
 - 📚 [**Study Group Finder**](https://github.com/Group-Projects-009/study-group-finder)  
-  A web application to help students discover and join study groups based on shared interests or subjects.
-  
+  A web application designed to help students find and join study groups based on their subjects or shared academic interests. The app allows users to search for available study groups, create new ones, and connect with like-minded individuals for collaborative learning.  
+  Key features:
+  - User registration and profile creation
+  - Group creation and management
+  - Search and filter study groups by subjects or interests
+  - Real-time chat functionality for group discussions
+  - Ability to join or leave study groups
+
 - 🔁 [**To-Do List**](https://github.com/gaurav05-coder/todo-list)  
   A minimal and responsive task manager with add/edit/delete functionality and persistent storage.
-
 
 ---
 
@@ -75,6 +88,3 @@ If you have an interesting idea or want to build something cool — let's connec
 // Motivation for the day:
 while(!success) {
   tryAgain();
-  learn();
-  improve();
-}
