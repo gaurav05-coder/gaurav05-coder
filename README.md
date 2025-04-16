@@ -15,7 +15,7 @@ I'm a passionate developer currently pursuing B.Tech at **Motilal Nehru National
 ---
 
 ### 🔧 Tech Stack
-- **Languages**: JavaScript, C++, Python
+- **Languages**: JavaScript, C++, Python, Java
 - **Frontend**: React.js, HTML, CSS, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Databases**: MongoDB, MySQL
